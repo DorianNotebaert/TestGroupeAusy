@@ -5,6 +5,7 @@ public class TestGroupe {
 		// TODO Auto-generated method stub
 		System.out.println("Projet en groupe version 1 - Dorian");
 		System.out.println("Projet en groupe version 2 - Tara");
+		System.out.println("Projet en groupe version 3 - Dorian");
 	}
 
 }
