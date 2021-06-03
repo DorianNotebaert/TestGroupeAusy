@@ -7,6 +7,7 @@ public class TestGroupe {
 		System.out.println("Projet en groupe version 2 - Tara");
 		System.out.println("Projet en groupe version 3 - Dorian");
 		System.out.println("Projet en groupe version 4 - Romain");
+		System.out.println("Projet en groupe version 5 - Romain Test");
 	}
 
 }
